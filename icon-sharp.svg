@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.9229,12.3818 C20.0239,12.1378 20.0239,11.8618 19.9229,11.6178 C19.8719,11.4948 19.7989,11.3838 19.7059,11.2908 L15.7069,7.2928 C15.3169,6.9028 14.6839,6.9028 14.2929,7.2928 C13.9019,7.6838 13.9019,8.3168 14.2929,8.7068 L16.5859,10.9998 L4.9999,10.9998 C4.4469,10.9998 3.9999,11.4468 3.9999,11.9998 C3.9999,12.5528 4.4469,12.9998 4.9999,12.9998 L16.5859,12.9998 L14.2929,15.2928 C13.9019,15.6838 13.9019,16.3168 14.2929,16.7068 C14.4879,16.9028 14.7439,16.9998 14.9999,16.9998 C15.2559,16.9998 15.5119,16.9028 15.7069,16.7068 L19.7059,12.7078 C19.7989,12.6148 19.8719,12.5048 19.9229,12.3818" id="path-1"></path>
+    </defs>
+    <g id="Atom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atom-/-Link-/-Left-Text-[Default]-/-Blue-[Lowercase]-/-Icon-and-Text" transform="translate(-4.000000, -7.000000)">
+            <g id="Atom-/-Functional-Icon-/-Navigation-/-Arrow-/-Right">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Atom-/-Functional-Icon-/-[Assets]-/-Dark-Action" mask="url(#mask-2)" fill="#006192" fill-rule="evenodd">
+                    <rect id="Dark-Action" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

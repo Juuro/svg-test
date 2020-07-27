@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Atom / Functional Icon / Communication / Phone / Phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.9502,17.9205 C21.0802,17.3995 20.9302,17.1125 20.7822,16.9645 C19.6912,15.8735 17.7272,14.5795 16.3292,14.3035 C15.6382,14.1665 15.1472,14.6485 14.7902,14.9985 C14.6172,15.1685 14.0252,15.7335 13.9082,15.7465 C13.1242,15.8345 8.1642,10.8735 8.2512,10.0905 C8.2632,9.9735 8.8302,9.3815 8.9992,9.2085 C9.3502,8.8505 9.8322,8.3595 9.6942,7.6685 C9.4182,6.2705 8.1252,4.3075 7.0342,3.2165 C6.8852,3.0665 6.5982,2.9175 6.0782,3.0475 C5.0102,3.3165 3.3352,4.6865 3.0922,5.4915 C2.5112,7.4105 4.7392,11.7005 8.5172,15.4805 C12.5432,19.5055 16.5882,21.4865 18.5072,20.9065 C19.3122,20.6635 20.6812,18.9875 20.9502,17.9205" id="path-1"></path>
+    </defs>
+    <g id="Process-Map" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atom-/-Functional-Icon-/-Communication-/-Phone-/-Phone" transform="translate(-3.000000, -3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="Atom-/-Functional-Icon-/-[Assets]-/-Dark-Action" mask="url(#mask-2)" fill="#006192" fill-rule="evenodd">
+                <rect id="Dark-Action" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
